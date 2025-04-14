@@ -1,6 +1,6 @@
-# BharatLAW: AI IPC Legal advice Assistant 📘
+# ApnaLaw: AI IPC Legal advice Assistant 📘
 
-BharatLAW is a sophisticated legal advisory chatbot focused on providing detailed and contextually accurate responses about the Indian Penal Code. It utilizes a powerful combination of machine learning technologies to efficiently process and retrieve legal information.
+ApnaLaw is a sophisticated legal advisory chatbot focused on providing detailed and contextually accurate responses about the Indian Penal Code. It utilizes a powerful combination of machine learning technologies to efficiently process and retrieve legal information.
 
 ---
 
@@ -13,7 +13,7 @@ BharatLAW is a sophisticated legal advisory chatbot focused on providing detaile
 
 ---
 
-<h4><strong>🚀Blast off to discovery! Our project is waiting for you <a href= "https://huggingface.co/spaces/adarsh-maurya/ApnaLawyer">BharatLAW</a>. Explore it today and elevate your understanding!🌟</strong><h4>
+<h4><strong>🚀Blast off to discovery! Our project is waiting for you <a href= "https://huggingface.co/spaces/adarsh-maurya/ApnaLawyer">ApnaLaw</a>. Explore it today and elevate your understanding!🌟</strong><h4>
 <br>
    
 ---
@@ -53,8 +53,8 @@ BharatLAW is a sophisticated legal advisory chatbot focused on providing detaile
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/BharatLAW.git
-   cd BharatLAW
+   git clone https://github.com/your-repo/ApnaLaw.git
+   cd ApnaLaw
    ```
 2. **Install dependencies:**
    ```bash
@@ -92,4 +92,4 @@ This key is crucial for the chatbot to access language model functionalities pro
 
 ## Usage 🔍
 
-Navigate to the local URL provided by Streamlit to interact with the BharatLAW chatbot. Enter your legal queries and receive precise information derived from the indexed legal documents. Utilize the chat interface to engage in a legal discussion and get accurate advice.<br>
+Navigate to the local URL provided by Streamlit to interact with the ApnaLaw chatbot. Enter your legal queries and receive precise information derived from the indexed legal documents. Utilize the chat interface to engage in a legal discussion and get accurate advice.<br>
